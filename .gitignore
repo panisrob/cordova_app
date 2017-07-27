@@ -1,0 +1,30 @@
+# General excludes
+node_modules
+test/html
+tmp
+
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOSx generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Local caches
+.idea/
+.sass-cache/*
+
+# Application
+npm-debug.log
+
+# Compiled assets
+
+target/*
+test/screenshots/tmp
+test/screenshots
+test/results
