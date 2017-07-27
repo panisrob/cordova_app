@@ -1,6 +1,6 @@
 # General excludes
 node_modules
-test/html
+test
 tmp
 
 # Windows generated files
@@ -24,7 +24,7 @@ npm-debug.log
 
 # Compiled assets
 
-target/*
-test/screenshots/tmp
-test/screenshots
-test/results
+# android
+TestApp/platforms/
+TestApp/plugins/
+TestApp/config.xml

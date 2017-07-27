@@ -1,0 +1,16 @@
+{
+  "name": "cordova_app",
+  "version": "0.0.1",
+  "description": "Test simple cordova app",
+  "license": "UNLICENSED",
+  "scripts": {
+
+  },
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/panisrob/cordova_app.git"
+  },
+  "devDependencies": {
+	"cordova": "7.0.1"
+  }
+}
